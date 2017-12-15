@@ -1,5 +1,5 @@
 # DATA-CONVERTER
-This package enable to convert data in js.
+This package is a data result handler. Available formats (JSON and XML).
 
 ## Installation
 Run the following command to get the latest version package

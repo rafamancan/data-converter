@@ -1,0 +1,35 @@
+{
+    "name": "data-converter",
+    "description": "This package is a data result handler. Available formats (JSON and XML).",
+    "readmeFilename": "README.md",
+    "keywords": [
+        "data",
+        "converter",
+        "json",
+        "xml",
+        "handler",
+        "api"
+    ],
+    "tags": [
+        "data",
+        "converter"
+    ],
+    "version": "0.0.1",
+    "author": {
+        "name": "Rafael Mançan",
+        "email": "rafael.mancan@gmail.com",
+        "homepage": "https://rafamancan.github.io/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rafamancan/data-converter"
+    },
+    "dependencies": {
+        "xml-js": "^1.5.2"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.8.0"
+    },
+    "main": "index.js"
+}
